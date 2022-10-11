@@ -14,7 +14,7 @@ At the same time you can use your own plugins.
 ./lab1 -v \
 ./lab1 -h \
 ./lab1 -P ./plugindir/ --same-bytes 5 --same-bytes-comp eq ./ \
-./lab1 -N -P ./plugindir/ --same-bytes 5 --same-bytes-comp eq ./ \
+./lab1 -N -P ./plugindir/ --same-bytes 5 --same-bytes-comp eq ./
 
 # Uninstall
 To delete binary files use:
