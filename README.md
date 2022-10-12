@@ -2,7 +2,7 @@
 Laboratory works on the course "System Programming"
 
 # Install
-To compile source files use:
+To compile source files use: \
 make all
 
 # Usage:
@@ -17,6 +17,6 @@ At the same time you can use your own plugins.
 ./lab1 -N -P ./plugindir/ --same-bytes 5 --same-bytes-comp eq ./
 
 # Uninstall
-To delete binary files use:
+To delete binary files use: \
 make clean
  
